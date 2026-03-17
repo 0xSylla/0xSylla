@@ -53,4 +53,4 @@ Tooling      Foundry · Hardhat · Slither · The Graph · Dune Analytics
 
 ## Contact
 
-[Telegram](https://t.me/@OxSylla) · [LinkedIn](https://www.linkedin.com/in/johndoe) · [X / Twitter](https://x.com/0x_orom) · `cherifsylla21@gmail.com`
+[X / Twitter](https://x.com/0x_orom) ·
