@@ -29,26 +29,6 @@ Security     ECDSA · ReentrancyGuard · AccessControl · Pausable · SafeERC20
 Frontend     React · Next.js · TypeScript · ethers.js · wagmi · viem
 Tooling      Foundry · Hardhat · Slither · The Graph · Dune Analytics
 ```
-
----
-
-## Selected Work
-
-| Project | Description | Chain |
-|---|---|---|
-| [Dirac Vaults](https://dune.com/diracfinance/dirac-vaults-key-metrics) | 3 upgradeable ERC4626 vaults — Stryke, Kodiak, Infrared integrations. $46K ATH TVL | Berachain |
-| [BeracPOL2](https://opensea.io/collection/beracpol2-3/offers) | Cross-chain ONFT721A collection. $100K+ volume. LayerZero bridging + Arb→Bera migration | Arbitrum |
-| [NFT Analytics](https://dune.com/diracfinance/list-diamond-paw-beracpol2) | Dune dashboard — mint activity, holder distribution, volume tracking | Berachain |
-| [StoneForm ICO](https://bscscan.com/address/0xc470e8691a9bcdc081db971615060a17b3577543#code) | Production ICO contract. Chainlink pricing, ECDSA auth, 134+ live transactions | BSC |
-
----
-
-## Currently
-
-- **Lead Blockchain Engineer** at [Dirac Finance](https://x.com/DiracFinance) — DeFi protocol on Berachain, $1M+ raised
-- Building vault portfolio projects: delta-neutral strategies, EIP-7540 async vaults, Foundry invariant test suites
-- Open to freelance smart contract missions and protocol collaborations
-
 ---
 
 ## Contact
