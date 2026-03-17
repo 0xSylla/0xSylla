@@ -1,4 +1,4 @@
-# 0usmane Sylla - 0xSylla
+# 0xSylla
 
 **Full-Stack Blockchain Engineer** — DeFi Vaults · Cross-Chain · NFT Infrastructure
 
