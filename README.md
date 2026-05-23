@@ -6,7 +6,7 @@ I build production-grade smart contracts and full-stack Web3 systems. My work sp
 
 ---
 
-## What I Build
+## What I helped Build
 
 **DeFi Vaults & Protocols**
 Upgradeable ERC4626 vaults with multi-protocol yield strategies — Stryke CLAMM options liquidity, Kodiak Finance concentrated liquidity limit orders, and Infrared staking. Full trade cycle state machines, role-based access control, reentrancy protection, and UUPS proxy patterns. Currently at **$46K combined ATH TVL** across 3 production vaults on Berachain.
